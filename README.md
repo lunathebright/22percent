@@ -35,7 +35,7 @@
 ### 적용 기술
 > - Frontend: React.js, Styled-Components, Hooks <br />
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kakao Map API, Kakao Login API, Chart.js 
-> - Backend: Python, Django web framework, MySQL, Bcrypt
+> - Backend: Python, Django, MySQL, Bcrypt, pyJWT
 > - Common: POSTMAN, Notion 
 
 <br />
