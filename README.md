@@ -1,5 +1,6 @@
 # 에잇퍼센트를 모티브로 한 팀 프로젝트
 
+<br />
 
 ## 프로젝트 소개
 
@@ -8,6 +9,8 @@
 - [프론트엔드 github 링크](https://github.com/wecode-bootcamp-korea/22-2nd-22percent-frontend)
 - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/22-2nd-22percent-backend)
 
+<br />
+
 ### 개발 인원 및 기간
 
 - 개발기간: 2021/7/19 ~ 2021/7/30
@@ -15,6 +18,7 @@
 - 프론트엔드: 장운서, 정빛열음, 황소미
 - 백엔드: 이동명, 이준영, 전수현
 
+<br />
 
 ### 프로젝트 선정 이유
 
@@ -26,11 +30,15 @@
 
 ## 적용 기술 및 구현 기능
 
+<br />
+
 ### 적용 기술
-> -Frontend: React.js, Styled-Components, Hooks
->  Kakao Map API, Kakao Login API, Chart.js
-> -Backend: Python, Django web framework, MySQL, Bcrypt
-> -Common: POSTMAN
+> - Frontend: React.js, Styled-Components, Hooks <br />
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kakao Map API, Kakao Login API, Chart.js 
+> - Backend: Python, Django web framework, MySQL, Bcrypt
+> - Common: POSTMAN, Notion 
+
+<br />
 
 ### 전체 구현 기능
 
@@ -39,8 +47,12 @@
 - 하나의 카드들에 hover 가 되면 이미지 스케일 커지는 모션
 - css를 사용해 그래프 구현
 
+<br />
+
 #### 네비게이션 바
 - 투자하기,전문투자 대출하기 로그아웃 마이페이지로 이동하는 기능 구현
+
+<br />
 
 #### 로그인, 회원가입
 - 이메일 회원가입 완료
@@ -48,8 +60,9 @@
 - 전체체크 기능 구현
 - 카카오톡을 이용한 소셜로그인 기능 구현
 
-#### 투자하기
+<br />
 
+#### 투자하기
 ##### 부동산
 - 투자를 한 카드리스트는 체크 이미지로 표시
 - 더보기 버튼 클릭 시 추가 fetch
@@ -59,18 +72,23 @@
 - 체크박스 기능 버튼 구현
 - 체크된 아이템이 있을 시 투자하기 버튼 노출
 
+<br />
+
 #### 상품 상세페이지
 - 슬라이드 구현
 - chart.js를 활용해 두가지 종류의 차트 구현
 - 옵션값 변경시 화면에 노출되는 데이터 변경
+
+<br />
 
 #### 전체 투자하기
 - 체크박스 기능 구현
 - POST method 활용
 - 투자하기 버튼 클릭시 id 값과 사용 예치금 서버로 전달
 
-#### 마이페이지
+<br />
 
+#### 마이페이지
 ##### 투자요약
 - 탭 이동을 통한 데이터 전환
 - chart.js 를 이용한 차트 구현
@@ -80,17 +98,24 @@
 - 검색기능을 이용한 필터링 구현
 - 페이지네이션 구현
 
+<br />
+
 ### 참여 내용
+
 #### 네비게이션 바
 - css 작업 전반
 - 로그인 전, 후 노출되는 아이콘 변화
 - 각 페이지로 연결되는 라우팅
+
+<br />
 
 #### 메인페이지
 - css 작업 전반
 - 이미지 캐러셀(무한 롤링 및 오토 무브)
 - 퍼센테이지에 따른 원형 그래프
 - 상품마다 유저의 투자 상태에 따른 라벨 부착
+
+<br />
 
 #### 투자하기: 부동산
 - css 작업 전반
@@ -99,14 +124,21 @@
 - 더보기 버튼을 통한 fetch 시 스피너 노출
 - 전체 투하기 버튼을 통해 장바구니 페이지로 이동
 
+<br />
+
 #### 투자하기: 개인신용
 - css 작업 전반
 - 양방향 레인지 슬라이더를 통한 필터링(fetch 최초 1회 후 프론트에서 필터링)
 - 체크박스를 통한 상품 선택 기능
 - 체크된 아이템이 있을 시 선택된 아이템 개수를 포함한 투자하기 버튼 노출
 
+<br />
+
 #### 푸터
-- css 
+- css 작업 전반 
+
+<br />
+<br />
 
 ### Reference
 - 이 프로젝트는 [에잇퍼센트](https://8percent.kr/) 사이트를 참조하여 학습 목적으로 만들었습니다.
